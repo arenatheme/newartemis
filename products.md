@@ -15,18 +15,16 @@ For more detail about product page you may visit [https://help.shopify.com/en/ma
 * Product Image Slider: `product.image-slider`[^5]
 * Product Image Slider Version 2: `product.image-sliderv2`[^6]
 
-In addition to the product type that supports metafield bundle product (group product) we have created two separate product support templates.
+In addition to the product type that supports metafield bundle product \(group product\) we have created two separate product support templates.
 
 * Product default with bundle product: `product.default-bundle`[^7]
 * Product Big image with bundle product: `product.big-image-bundle`[^8]
 
 [How to add bundle product](/products/bundle-product-page.md)
 
-To support product with AR we creat  
-* 9. Product default support Augmented Reality 3D image by 3D Warehouse app (It's only support for IOS 12 Device\): `product.default-ar `[^9] `?view=product.default-ar` 
+To support product with AR we creat
 
-
-
+* 1. Product default support Augmented Reality 3D image by 3D Warehouse app \(It's only support for IOS 12 Device\): `product.default-ar`[^9]
 
 ## Customize product templates with sections
 
@@ -39,18 +37,18 @@ From your Shopify admin, go to **Online Store &gt; Themes**
 * Select **Product pages.** Now you will access to edit Sections for Product page.  
   However, Shopify only support for only **1 product page template** to customize at select tab.
 
-You can change product page template view by add `?view=product.templatename` at the end of product url which redirect is product template name.  The default template can switch with no view name `?view=\`.  
+You can change product page template view by add `?view=templatename` at the end of product url which redirect is product template name.  The default template can switch with no view name `?view=\`.
 
-* product.default ->  `?view=default`
-* product.product-ar -> `?view=product.product-ar`
-* product.bundle -> `?view=product.bundle`
-* product.big-image-bundle -> `?view=product.big-image-bundle`
-* product.big-image -> `?view=product.big-image`
-* product.grid-image -> `?view=product.grid-image`
-* product.grid-thumbnail -> `?view=product.grid-thumbnail`
-* product.image-slider -> `?view=product.image-slider`
-* product.image-sliderv2 -> `?view=product.image-sliderv2`
- 
+* product.default -&gt;  `?view=default`
+* product.default-ar -&gt; `?view=default-ar`
+* product.default-bundle -&gt; `?view=default-bundle`
+* product.big-image-bundle -&gt; `?view=big-image-bundle`
+* product.big-image -&gt; `?view=big-image`
+* product.grid-image -&gt; `?view=grid-image`
+* product.grid-thumbnail -&gt; `?view=grid-thumbnail`
+* product.image-slider -&gt; `?view=image-slider`
+* product.image-sliderv2 -&gt; `?view=image-sliderv2`
+
 ### Related topics
 
 * [Product Color or Image Variants](/products/product-color-variant.md)
@@ -64,34 +62,13 @@ You can change product page template view by add `?view=product.templatename` at
 
 ### Demos
 
-[^1] Demo [https://arena-artemis.myshopify.com/products/fixair-product-sample](https://arena-artemis.myshopify.com/products/fixair-product-sample)
-[^2] Demo [https://arena-artemis.myshopify.com/products/gooddox-product-sample](https://arena-artemis.myshopify.com/products/gooddox-product-sample)
-[^3] Demo [https://arena-artemis.myshopify.com/products/quisque-placerat-libero](https://arena-artemis.myshopify.com/products/quisque-placerat-libero)
-[^4] Demo [https://arena-artemis.myshopify.com/products/danin-product-sample](https://arena-artemis.myshopify.com/products/danin-product-sample)
-[^5] Demo [https://arena-artemis.myshopify.com/products/finity-product-sample](https://arena-artemis.myshopify.com/products/finity-product-sample)
-[^6] Demo [https://arena-artemis.myshopify.com/products/anity-product-sample](https://arena-artemis.myshopify.com/products/anity-product-sample)
-[^7] Demo [https://arena-artemis.myshopify.com/products/blue-bandeau-bikini-top](https://arena-artemis.myshopify.com/products/blue-bandeau-bikini-top)
-[^8] Demo [https://arena-artemis.myshopify.com/products/consectetur-nibh-eget](https://arena-artemis.myshopify.com/products/consectetur-nibh-eget)
+[^1] Demo [https://arena-artemis.myshopify.com/products/fixair-product-sample](https://arena-artemis.myshopify.com/products/fixair-product-sample)  
+[^2] Demo [https://arena-artemis.myshopify.com/products/gooddox-product-sample](https://arena-artemis.myshopify.com/products/gooddox-product-sample)  
+[^3] Demo [https://arena-artemis.myshopify.com/products/quisque-placerat-libero](https://arena-artemis.myshopify.com/products/quisque-placerat-libero)  
+[^4] Demo [https://arena-artemis.myshopify.com/products/danin-product-sample](https://arena-artemis.myshopify.com/products/danin-product-sample)  
+[^5] Demo [https://arena-artemis.myshopify.com/products/finity-product-sample](https://arena-artemis.myshopify.com/products/finity-product-sample)  
+[^6] Demo [https://arena-artemis.myshopify.com/products/anity-product-sample](https://arena-artemis.myshopify.com/products/anity-product-sample)  
+[^7] Demo [https://arena-artemis.myshopify.com/products/blue-bandeau-bikini-top](https://arena-artemis.myshopify.com/products/blue-bandeau-bikini-top)  
+[^8] Demo [https://arena-artemis.myshopify.com/products/consectetur-nibh-eget](https://arena-artemis.myshopify.com/products/consectetur-nibh-eget)  
 [^9] Demo [https://arena-artemis.myshopify.com/products/flexlam-product-sample](https://arena-artemis.myshopify.com/products/flexlam-product-sample)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
